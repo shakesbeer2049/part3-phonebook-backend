@@ -1,5 +1,5 @@
 node_modules/
-package-lock.json
 requests/delete.rest
 requests/get.rest
 requests/post.rest
+.env
